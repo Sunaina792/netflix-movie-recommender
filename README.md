@@ -17,7 +17,7 @@ Welcome to the **Netflix Movie Recommender System** — a content-based movie re
 
 ## 📷 Preview
 
-![App Screenshot](https://user-images.githubusercontent.com/your-image-link) <!-- You can upload a screenshot to GitHub and paste the link here -->
+![App Screenshot](netflix.png)) <!-- You can upload a screenshot to GitHub and paste the link here -->
 
 ---
 
